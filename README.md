@@ -1,2 +1,2 @@
 # Linked-list-exercise
-Linked list exercise
+Linked list implementation
